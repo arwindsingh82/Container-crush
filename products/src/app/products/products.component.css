@@ -1,0 +1,63 @@
+.mat-table {
+  box-shadow: none;
+  width: 100%
+}
+
+.imgset{
+  height: 400px;
+  width: 100%;
+}
+
+.textcolor{
+  position: relative;
+  left:500px;
+  color:rgb(39, 163, 212);
+}
+
+.marquee {
+  white-space: nowrap;
+  -webkit-animation: rightThenLeft 4s linear;
+}
+
+
+td.mat-cell{
+  border-bottom-style: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
+}
+
+th.mat-header-cell{
+
+  border-bottom-style: none;
+}
+
+.txtcol{
+  font-size: 50px;
+  color: rgb(166, 224, 174);
+}
+
+.txtcol1{
+  font-size: 30px;
+  color: wheat;
+}
+
+.bgcart{
+  background-color: lightblue
+}
+
+h1{
+  background-color: aliceblue;
+}
+
+
+
+.matb{
+  background-color: transparent;
+  outline: none;
+  border: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+
+}
+
